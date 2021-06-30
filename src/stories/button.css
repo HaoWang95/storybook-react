@@ -28,3 +28,7 @@
   font-size: 16px;
   padding: 12px 24px;
 }
+.storybook-button--xs {
+  font-size: 8px;
+  padding: 8px, 10px;
+}
